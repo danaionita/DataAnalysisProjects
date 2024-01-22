@@ -1,2 +1,2 @@
 # DataAnalysisProjects
-Basic Movies Anaysis
+data analysis examples
